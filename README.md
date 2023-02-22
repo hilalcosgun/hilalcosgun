@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am Hilal. I am a freshman computer science student at Bilkent University.
 
 <!--
 **hilalcosgun/hilalcosgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
